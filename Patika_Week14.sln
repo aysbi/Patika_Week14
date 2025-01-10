@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAPI", "IdentityAPI\IdentityAPI.csproj", "{07B64C36-157F-4A1E-B60B-E6BE1AEC1F1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityAPI", "IdentityAPI\IdentityAPI.csproj", "{07B64C36-157F-4A1E-B60B-E6BE1AEC1F1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanliDersA_IdentityBaslangic", "CanliDersA_IdentityBaslangic\CanliDersA_IdentityBaslangic.csproj", "{E5CFF57F-75B8-4988-B58F-AA068A72ED2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanliDersA_IdentityBaslangic", "CanliDersA_IdentityBaslangic\CanliDersA_IdentityBaslangic.csproj", "{E5CFF57F-75B8-4988-B58F-AA068A72ED2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik1_IdentityAndDataProtection", "Pratik1_IdentityAndDataProtection\Pratik1_IdentityAndDataProtection.csproj", "{FE5D3B8D-CE4D-4EBC-B333-A9C3C6A5C543}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik1_IdentityAndDataProtection", "Pratik1_IdentityAndDataProtection\Pratik1_IdentityAndDataProtection.csproj", "{FE5D3B8D-CE4D-4EBC-B333-A9C3C6A5C543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik2_Jwt", "Pratik2_Jwt\Pratik2_Jwt.csproj", "{1EE9D467-45A9-42D7-A6F8-E21B158D18E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FE5D3B8D-CE4D-4EBC-B333-A9C3C6A5C543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE5D3B8D-CE4D-4EBC-B333-A9C3C6A5C543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE5D3B8D-CE4D-4EBC-B333-A9C3C6A5C543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE9D467-45A9-42D7-A6F8-E21B158D18E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE9D467-45A9-42D7-A6F8-E21B158D18E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE9D467-45A9-42D7-A6F8-E21B158D18E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE9D467-45A9-42D7-A6F8-E21B158D18E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
